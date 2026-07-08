@@ -1,1 +1,1 @@
-ls -p -t | paste -sd "," -
+ls -mtp
